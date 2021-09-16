@@ -1,11 +1,10 @@
-## Your Name
-
-Bernard Leanse
+## Bernard Leanse
 
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager.
-Having started a degree in chemical engineering following top A level grades, studies were suspended following mental health difficulties.
+Having started a degree in chemical engineering following top A level grades, studies were suspended following mental health difficulties. Decided I don't want to be stuck in a factory office in grangemouth. 
+
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
-I become obsessively meticulous with my approach unitl the job is done! Very keen on cycling and would love to work for a company such as komoot or Strava.
+I become obsessively meticulous with my approach unitl the job is done! Very keen on cycling and would love to work for a company such as komoot or Strava. 
 
 
 
