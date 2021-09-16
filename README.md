@@ -1,6 +1,13 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Bernard Leanse
+
+Always been drawn to engineering and problem solving! Been into tech and computers since a teenager.
+Having started a degree in chemical engineering following top A level grades, studies were suspended following mental health difficulties.
+Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
+I become obsessively meticulous with my approach unitl the job is done! Very keen on cycling and would love to work for a company such as komoot or Strava.
+
+
 
 ## Projects
 
@@ -74,4 +81,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Cycling
+Fixing Bikes
+DJing
