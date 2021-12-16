@@ -13,8 +13,11 @@ I graduated from makers academy in December 2021, having learned so much! I thin
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
+
 | ---------------------------- | ----------------- | ----------------- |
-| **[The Life of Bernard](https://github.com/marazzo/EP3-Gaming-FE)** | A simple game built with the Mern Stack | MongoDB, Express, React, Node, Jest, MaterialUI |
+
+| **[The Life of Bernard (Front End)](https://github.com/marazzo/EP3-Gaming-FE)** <br/> **[The Life of Bernard (Back End)](https://github.com/AJOsmaston/EP3-Gaming-BE)** | A simple game built with the Mern Stack | MongoDB, Express, React, Node, Jest, MaterialUI |
+
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
