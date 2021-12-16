@@ -1,10 +1,12 @@
 ## Bernard Leanse
 
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager.
-Having started a degree in chemical engineering following top A level grades, studies were suspended following mental health difficulties. Decided I don't want to be stuck in a factory office in grangemouth. 
+Having started a degree in chemical engineering following top A level grades, studies were suspended following some challenges in my personal life. 
 
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
-I become obsessively meticulous with my approach unitl the job is done! Very keen on cycling and would love to work for a company such as komoot or Strava. 
+I become obsessively meticulous with my approach unitl the job is done! 
+
+I graduated from makers academy in December 2021, having learned so much! I think the most important skills taken away are teamworking, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects.
 
 
 
@@ -59,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (20/09/2021 to 10/12/2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -67,12 +69,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
