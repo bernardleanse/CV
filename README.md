@@ -15,63 +15,33 @@ I graduated from makers academy in December 2021, having learned so much! I thin
 | ---------------------------- | ----------------- | ----------------- |
 | **[The Life of Bernard (Front End)](https://github.com/marazzo/EP3-Gaming-FE)** <br/> **[The Life of Bernard (Back End)](https://github.com/AJOsmaston/EP3-Gaming-BE)** | A simple game built with the Mern Stack | MongoDB, Express, React, Node, Jest, MaterialUI |
 | **[React BPM Counter](https://github.com/bernardleanse/BPM-Calculator-REACT)** | A simple single page app to tap along to a track and get the bpm | Node, React |
+|**[AirBNB Clone](https://github.com/Alex969/bnb_project)**|AirBNB Clone with limited technologies, using SQL directly without an ORM.| Ruby, Sinatra, Postgres |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Lundenwic - Speciality Coffee Shop** (2018 to 2020)  
+Barista & Cafe Manager
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Learned a lot of people, comunication and organizational skills!
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Problem Solving
 
--STAR
--What was the situation/task? (ST)
+Always been a problem solver, people would always come to me if something wasn't working on their computer when I was growing up!
+More recently I learned bike mechanics over lockdown and obviously faced many challenges but now competent building one from scratch!
+In my management journey at lundenwic issues would come up all the time which forced me to think clearly and stay calm and carry on in the best way possible.
 
--How was the skill used?
+#### Team Working
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Being in charge of a team of baristas was something that definately boosted my team working and communication skills.
+What took them to the next level was makers academy where we did pair programming every day and it was invaluable in learning how to work with all sorts of different people who think differently and approach problems in different ways.
 
 ## Education
 
 #### Makers Academy (20/09/2021 to 10/12/2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+Makers was fantastic as you are taught how to code in a self directed way, and you pair program every day which teaches you the vital communication skills you need to be a developer. I was taught how to follow a TDD process and to break down problems into small chunks. 
 
 ## Hobbies
 
