@@ -1,6 +1,8 @@
 ## Bernard Leanse
 
-Always been drawn to engineering and problem solving! Been into tech and computers since a teenager.
+Always been drawn to engineering and problem solving! Been into tech and computers since a teenager. 
+
+I studied Chemical Engineering for two years and dropped out following personal difficulties.
  
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
 I become obsessively meticulous with my approach unitl the job is done! 
@@ -42,6 +44,15 @@ What took them to the next level was makers academy where we did pair programmin
 #### Makers Academy (20/09/2021 to 10/12/2021)
 
 Makers was fantastic as you are taught how to code in a self directed way, and you pair program every day which teaches you the vital communication skills you need to be a developer. I was taught how to follow a TDD process and to break down problems into small chunks. 
+
+
+#### City of London School (2011 to 2015)
+
+A Levels
+
+Maths - A*
+Physics - A*
+Chemistry - A
 
 ## Hobbies
 
