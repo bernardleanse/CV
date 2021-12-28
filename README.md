@@ -1,8 +1,7 @@
 ## Bernard Leanse
 
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager.
-Having started a degree in chemical engineering following top A level grades, studies were suspended following some challenges in my personal life. 
-
+ 
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
 I become obsessively meticulous with my approach unitl the job is done! 
 
@@ -15,7 +14,7 @@ I graduated from makers academy in December 2021, having learned so much! I thin
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[The Life of Bernard (Front End)](https://github.com/marazzo/EP3-Gaming-FE)** <br/> **[The Life of Bernard (Back End)](https://github.com/AJOsmaston/EP3-Gaming-BE)** | A simple game built with the Mern Stack | MongoDB, Express, React, Node, Jest, MaterialUI |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[React BPM Counter](https://github.com/bernardleanse/BPM-Calculator-REACT)** | A simple single page app to tap along to a track and get the bpm | Node, React |
 
 ## Work Experience
 
