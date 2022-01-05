@@ -1,13 +1,15 @@
 ## Bernard Leanse
 
+I graduated from makers academy in December 2021, having learned so much! I think the most important skills taken away are teamworking, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects.
+
+I am now very keen to join a company where I can reinforce what I've learned at Makers and really learn how to do things in the best way possible!
+
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager. 
 
 I studied Chemical Engineering for two years and dropped out following personal difficulties.
  
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
 I become obsessively meticulous with my approach unitl the job is done! 
-
-I graduated from makers academy in December 2021, having learned so much! I think the most important skills taken away are teamworking, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects.
 
 
 
