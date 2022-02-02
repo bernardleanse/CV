@@ -11,8 +11,6 @@ I studied Chemical Engineering for two years and dropped out following personal 
 Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
 I become obsessively meticulous with my approach unitl the job is done! 
 
-
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -40,6 +38,10 @@ In my management journey at lundenwic issues would come up all the time which fo
 
 Being in charge of a team of baristas was something that definately boosted my team working and communication skills.
 What took them to the next level was makers academy where we did pair programming every day and it was invaluable in learning how to work with all sorts of different people who think differently and approach problems in different ways.
+
+#### Empathy
+
+I am a naturally empathetic person and I know how crucial this is a skill in the workplace, especially when giving feedback. I had to do this all the time when managing my independent coffee shop! Especially when you want things to be done a certain particular way, you've got to imagine being on the recieving end and make them not feel overly micro-managed!
 
 ## Education
 
