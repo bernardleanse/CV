@@ -1,6 +1,6 @@
 ## Bernard Leanse
 
-I graduated from makers academy in December 2021, having learned so much! I think the most important skills taken away are teamworking, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects.
+I graduated from makers academy in December 2021, having learned so much! I think the most important skills taken away are teamworking, breaking down large problems into the smallest units possible, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects.
 
 I am now very keen to join a company where I can reinforce what I've learned at Makers and really learn how to do things in the best way possible!
 
