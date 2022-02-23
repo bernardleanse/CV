@@ -2,14 +2,11 @@
 
 I graduated from makers academy in December 2021, having learned so much! The most important skills I took away were breaking down large problems into the smallest units possible, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects. Pairing was one of my favourite things about the course because when you click and get into sync with your pair, you fly through problems and it's great fun. You don't always get this as everyone is different so I rose to the challenge of aiming to get to this level with whoever I paired with, which really helped to improve my people skills and empathy. 
 
-I am now very keen to join a company where I can reinforce what I've learned at Makers and really learn how to do things in the best way possible!
+I am now very keen to join a company where I can reinforce my Makers learning and transition 
 
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager. 
 
-I studied Chemical Engineering for two years and dropped out following personal difficulties.
- 
-Became hooked on speciality coffee work and managed a top coffee place for a while. My personality is very all or nothing, when I decide i'm doing something,
-I become obsessively meticulous with my approach unitl the job is done! 
+Previous to the Makers course I studied Chemical Engineering for two years and dropped out following personal difficulties. I re-trained as a barista in London, working in speciality coffee shops and worked my way up to becoming a manager in a busy Covent Garden cafe. Whilst working in coffee, I learned how to balance meticulous process against customer waiting time, without compromising on quality and always giving the best customer service. This stretched me to become a strong communicator especially when hiring and training my own team.
 
 ## Projects
 
