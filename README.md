@@ -21,7 +21,7 @@ Previous to the Makers course I studied Chemical Engineering for two years and d
 
 ## Work Experience
 
-**BaristasOnTap - Freelance Speciality Coffee Making Services
+**BaristasOnTap** - Freelance Speciality Coffee Making Services
 
 **Makers Academy
 
