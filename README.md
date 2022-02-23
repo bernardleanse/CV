@@ -23,17 +23,17 @@ Previous to the Makers course I studied Chemical Engineering for two years and d
 
 **BaristasOnTap** - Freelance Speciality Coffee Making Services
 
-**Makers Academy
+**Makers Academy**
 
-**Lundenwic - Food and Speciality Coffee Shop - Barista -> Manager
+**Lundenwic** - Food and Speciality Coffee Shop - Barista -> Manager
 
-**Six Degrees Coffee - Barista, Shift Leader, Breakfast Chef
+**Six Degrees Coffee** - Barista, Shift Leader, Breakfast Chef
 
-**Gails Bakery - Team Member -> Barista -> Lead Barista
+**Gails Bakery** - Team Member -> Barista -> Lead Barista
 
-**Gourmet Burger Kitchen - Team Member
+**Gourmet Burger Kitchen** - Team Member
 
-**Off To Work - Catering Agency - Silver Service
+**Off To Work** - Catering Agency - Silver Service
 
 ## Skills
 
