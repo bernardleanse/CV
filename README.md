@@ -6,7 +6,7 @@ Specifically, I really enjoyed learning and understanding the request response c
 
 I am now very keen to join a company where I can reinforce my Makers learning and transition into a software engineer with good habits, and strong fundamentals.
 
-Always been drawn to engineering and problem solving! Been into tech and computers since a teenager. 
+I have always been drawn to engineering and problem solving, as a child/teenager I was always diagnosing tech problems everyone in my big family, many of which are pretty clueless when it comes to computers! I used to build PCs back in my gaming days which was great fun! 
 
 Previous to the Makers course I studied Chemical Engineering for two years and dropped out following personal difficulties. I re-trained as a barista in London, working in speciality coffee shops and worked my way up to becoming a manager in a busy Covent Garden cafe. Whilst working in coffee, I learned how to balance meticulous process against customer waiting time, without compromising on quality and always giving the best customer service. This stretched me to become a strong communicator especially when hiring and training my own team.
 
