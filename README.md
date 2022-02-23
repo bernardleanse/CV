@@ -2,7 +2,9 @@
 
 I graduated from makers academy in December 2021, having learned so much! The most important skills I took away were breaking down large problems into the smallest units possible, learning to embrace and accept frustration as part of the process, applying knowledge of concepts to new language/technology and learning while working on brand new projects. Pairing was one of my favourite things about the course because when you click and get into sync with your pair, you fly through problems and it's great fun. You don't always get this as everyone is different so I rose to the challenge of aiming to get to this level with whoever I paired with, which really helped to improve my people skills and empathy. 
 
-I am now very keen to join a company where I can reinforce my Makers learning and transition 
+Specifically, I really enjoyed learning and understanding the request response cycle in all in one web app frameworks, and then extending this to building APIs in a test driven and object oriented fahsion to handle calls from front end applications. I relished getting my head around how entity realations work and how to make database qeuries to get specific data, for example join tables for many to many relations, and doing inner join queries. I also loved creating classes which acted as models and wrapped relations in their respective instances.
+
+I am now very keen to join a company where I can reinforce my Makers learning and transition into a software engineer with good habits, and strong fundamentals.
 
 Always been drawn to engineering and problem solving! Been into tech and computers since a teenager. 
 
@@ -19,10 +21,19 @@ Previous to the Makers course I studied Chemical Engineering for two years and d
 
 ## Work Experience
 
-**Lundenwic - Speciality Coffee Shop** (2018 to 2020)  
-Barista & Cafe Manager
+**BaristasOnTap - Freelance Speciality Coffee Making Services
 
-- Learned a lot of people, comunication and organizational skills!
+**Makers Academy
+
+**Lundenwic - Food and Speciality Coffee Shop - Barista -> Manager
+
+**Six Degrees Coffee - Barista, Shift Leader, Breakfast Chef
+
+**Gails Bakery - Team Member -> Barista -> Lead Barista
+
+**Gourmet Burger Kitchen - Team Member
+
+**Off To Work - Catering Agency - Silver Service
 
 ## Skills
 
@@ -31,6 +42,7 @@ Barista & Cafe Manager
 Always been a problem solver, people would always come to me if something wasn't working on their computer when I was growing up!
 More recently I learned bike mechanics over lockdown and obviously faced many challenges but now competent building one from scratch!
 In my management journey at lundenwic issues would come up all the time which forced me to think clearly and stay calm and carry on in the best way possible.
+Following makers I realised some of the skills I learned had come in to any areas of life even outside of coding where you face a problem, I noticed I was more calm and less overwhelmed, more able to take a step back and break the problem into smaller units and work towards the final goal in incremental steps.
 
 #### Team Working
 
