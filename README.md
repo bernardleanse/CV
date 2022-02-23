@@ -15,9 +15,10 @@ I become obsessively meticulous with my approach unitl the job is done!
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[SimpleBlog](https://github.com/bernardleanse/simple_blog)**|Twitter style webapp, using SQL directly building model classes which mimick an ORM.| Ruby, Rspec, Sinatra, PostgreSQL |
 | **[The Life of Bernard (Front End)](https://github.com/marazzo/EP3-Gaming-FE)** <br/> **[The Life of Bernard (Back End)](https://github.com/AJOsmaston/EP3-Gaming-BE)** | A simple game built with the Mern Stack | MongoDB, Express, React, Node, Jest, MaterialUI |
 | **[React BPM Counter](https://github.com/bernardleanse/BPM-Calculator-REACT)** | A simple single page app to tap along to a track and get the bpm | Node, React |
-|**[AirBNB Clone](https://github.com/Alex969/bnb_project)**|AirBNB Clone with limited technologies, using SQL directly without an ORM.| Ruby, Sinatra, Postgres |
+
 
 ## Work Experience
 
